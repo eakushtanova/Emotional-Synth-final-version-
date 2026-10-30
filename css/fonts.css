@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Neutral Face';
+    src: url('../fonts/NeutralFace.otf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: url('../fonts/Euclid\ Circular\ A\ Light.ttf') format('truetype');
+    font-style: light;
+    font-weight: 300;
+}
